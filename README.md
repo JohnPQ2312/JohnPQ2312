@@ -1,4 +1,4 @@
-### Wenas, este repositorio está vacío, pero un día se me ocurrira ponerle algo, por aburrimiento más que todo
+### Wenas
 
 <!--
 **JohnPQ2312/JohnPQ2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
