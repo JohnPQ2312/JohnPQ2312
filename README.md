@@ -1,16 +1,22 @@
-### Wenas
+# Hi, I'm John 👋
 
-<!--
-**JohnPQ2312/JohnPQ2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning software development through projects and exercises using **Java, C++, and SQL**.
 
-Here are some ideas to get you started:
+This profile brings together some of the work I've done during my studies, including desktop applications, games, and console programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I'm Learning (08/2026)
+
+- **Java and JavaFX:** desktop interfaces and object-oriented programming.
+- **C++ and OpenCV:** programming exercises and image processing.
+- **SQL and data persistence:** relational databases and JPA/Hibernate.
+- **Tools:** Git, GitHub, and Maven.
+
+## About These Repositories
+
+You'll find both early exercises and larger projects here. For now, I'm keeping them as a record of my learning journey.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JohnPQ2312&amp;locale=en&amp;hide_border=true&amp;background=262335&amp;ring=FF6B6B&amp;fire=FF6B6B&amp;currStreakNum=64FFDA&amp;currStreakLabel=64FFDA&amp;sideNums=FF6B6B&amp;sideLabels=FF6B6B&amp;dates=DDDDDD&amp;stroke=DDDDDD&amp;disable_animations=true" alt="JohnPQ2312's GitHub contributions: total contributions, current streak, and longest streak" />
+</p>
