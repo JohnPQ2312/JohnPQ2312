@@ -4,7 +4,7 @@ I'm learning software development through projects and exercises using **Java, C
 
 This profile brings together some of the work I've done during my studies, including desktop applications, games, and console programs.
 
-## Technologies I'm Learning (08/2026)
+## Technologies I'm Learning (Since 2024)
 
 - **Java and JavaFX:** desktop interfaces and object-oriented programming.
 - **C++ and OpenCV:** programming exercises and image processing.
