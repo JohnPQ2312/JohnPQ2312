@@ -7,7 +7,7 @@ This profile brings together some of the work I've done during my studies, inclu
 ## Technologies I'm Learning (Since 2024)
 
 - **Java and JavaFX:** desktop interfaces and object-oriented programming.
-- **C++ and OpenCV:** programming exercises and image processing.
+- **C++, OpenCV and SFML:** programming exercises and image processing.
 - **SQL and data persistence:** relational databases and JPA/Hibernate.
 - **Tools:** Git, GitHub, and Maven.
 
